@@ -1,1 +1,40 @@
-{"stats":{"minecraft:custom":{"minecraft:time_since_rest":34038,"minecraft:crouch_one_cm":2687,"minecraft:deaths":30,"minecraft:sprint_one_cm":71402,"minecraft:play_time":74431,"minecraft:damage_taken":6040,"minecraft:walk_one_cm":24081,"minecraft:sneak_time":3091,"minecraft:drop":1,"minecraft:jump":434,"minecraft:leave_game":3,"minecraft:time_since_death":34038,"minecraft:climb_one_cm":2057,"minecraft:total_world_time":76795,"minecraft:fall_one_cm":2643,"minecraft:fly_one_cm":556963},"minecraft:dropped":{"minecraft:iron_trapdoor":1},"minecraft:used":{"minecraft:item_frame":2,"minecraft:packed_ice":59,"minecraft:debug_stick":4,"minecraft:lever":2,"minecraft:light":1,"minecraft:iron_trapdoor":92,"minecraft:iron_block":80,"minecraft:birch_sign":5,"minecraft:slime_block":11,"minecraft:ladder":17,"minecraft:blue_ice":203,"minecraft:ice":42}},"DataVersion":3117}
+{
+    "stats": {
+        "minecraft:custom": {
+            "minecraft:time_since_rest": 34038,
+            "minecraft:crouch_one_cm": 2687,
+            "minecraft:deaths": 30,
+            "minecraft:sprint_one_cm": 71402,
+            "minecraft:play_time": 74431,
+            "minecraft:damage_taken": 6040,
+            "minecraft:walk_one_cm": 24081,
+            "minecraft:sneak_time": 3091,
+            "minecraft:drop": 1,
+            "minecraft:jump": 434,
+            "minecraft:leave_game": 3,
+            "minecraft:time_since_death": 34038,
+            "minecraft:climb_one_cm": 2057,
+            "minecraft:total_world_time": 76795,
+            "minecraft:fall_one_cm": 2643,
+            "minecraft:fly_one_cm": 556963
+        },
+        "minecraft:dropped": {
+            "minecraft:iron_trapdoor": 1
+        },
+        "minecraft:used": {
+            "minecraft:item_frame": 2,
+            "minecraft:packed_ice": 59,
+            "minecraft:debug_stick": 4,
+            "minecraft:lever": 2,
+            "minecraft:light": 1,
+            "minecraft:iron_trapdoor": 92,
+            "minecraft:iron_block": 80,
+            "minecraft:birch_sign": 5,
+            "minecraft:slime_block": 11,
+            "minecraft:ladder": 17,
+            "minecraft:blue_ice": 203,
+            "minecraft:ice": 42
+        }
+    },
+    "DataVersion": 3117
+}
